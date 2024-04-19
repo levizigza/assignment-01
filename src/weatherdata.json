@@ -1,0 +1,22 @@
+[
+    {
+      "city": "New York",
+      "temperature": "20°C",
+      "weather": "Sunny"
+    },
+    {
+      "city": "London",
+      "temperature": "15°C",
+      "weather": "Cloudy"
+    },
+    {
+      "city": "Tokyo",
+      "temperature": "25°C",
+      "weather": "Rainy"
+    },
+    {
+      "city": "Paris",
+      "temperature": "18°C",
+      "weather": "Partly Cloudy"
+    }
+  ]
